@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Brillian</h1>
-<h3 align="center">I love working on projects related to machine learning, deep learning, data analytics, and software engineering.</h3>
+<h3 align="center">I love working on projects related to machine learning, deep learning, data analytics, and full stack developments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbrillian354&label=Profile%20views&color=0e75b6&style=flat" alt="mbrillian354" /> </p>
 
